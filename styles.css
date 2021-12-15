@@ -1,0 +1,92 @@
+a {
+  font-family: Outfit, sans-serif;
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  font-family: Outfit, sans-serif;
+  background-color: #0d192b;
+  color: 	#8bacda;
+}
+
+h1 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+}
+
+p {
+  font-size: 18;
+  font-weight: 300;
+}
+
+hr {
+  border-color: #2f415b;
+  border-style: solid;
+}
+
+
+/* Class styles */
+
+.active:hover {
+  color: 	#00fff7;
+}
+
+.avatar {
+max-width: 30px;
+border: 1px solid #fff;
+border-radius: 50%;
+margin-right: 20px;
+vertical-align: middle;
+}
+
+
+.card {
+        width: 250px;
+        margin: 100px auto;
+        background-color: #14253d;
+        padding: 25px;
+        border-radius: 2%;
+}
+
+.eye {
+  position: absolute;
+  padding: 100px;
+  max-width: 100%;
+  opacity: 0;
+  background-color: rgb(0, 255, 247, 0.5);
+  border-radius: 10%;
+}
+
+.eye:hover {
+  opacity: 1;
+}
+
+.first-line {
+  display: inline-block;
+    color: #00fff7;
+    font-weight: 400;
+}
+
+.hidden {
+  position:absolute;
+  text-align: center;
+
+}
+
+.icon {
+  vertical-align: text-bottom;
+}
+
+.main-img{
+  max-width: 100%;
+  border-radius: 10%;
+}
+
+
+.second-line {
+  display: inline-block;
+  float: right;
+  font-weight: 400;
+}
