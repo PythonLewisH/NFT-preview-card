@@ -70,5 +70,5 @@ Would like to try challenge without use of bootstrap. Feel there are more effeci
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pythonlewisH)
-- Twitter - [@yourusername](https://www.twitter.com/pythonlewis)
+- Frontend Mentor - [@pythonlewish](https://www.frontendmentor.io/profile/pythonlewisH)
+- Twitter - [@pythonlewis](https://www.twitter.com/pythonlewis)
